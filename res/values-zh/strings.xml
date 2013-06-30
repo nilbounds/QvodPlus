@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">快播文件合并助手</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">设置</string>
+    <string name="tasks">任务</string>
+    <string name="result">结果</string>
+    <string name="noData">没有文件</string>
+</resources>
